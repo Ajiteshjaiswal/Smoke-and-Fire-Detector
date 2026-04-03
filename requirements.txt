@@ -1,0 +1,13 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.3.0
+torch
+torchvision
+torchaudio
+
+# UI and Web Interface
+gradio
+
+# Image Processing & Utilities
+opencv-python
+numpy
+pillow

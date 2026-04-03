@@ -1,0 +1,8 @@
+# Path to your dataset folder
+path: E:/Fire-and-Smoke-Classifier-main/datasets/fire_data  
+train: train/images
+val: val/images
+
+# Classes
+nc: 2           # number of classes
+names: ['fire', 'smoke']
